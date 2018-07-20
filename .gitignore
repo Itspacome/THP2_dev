@@ -17,6 +17,7 @@
 /storage/*
 
 /node_modules/*
+
 .env
 
 .byebug_history
