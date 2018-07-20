@@ -16,7 +16,8 @@
 # Ignore uploaded files in development
 /storage/*
 
-/node-modules/*
+/node_modules/*
+
 .env
 
 .byebug_history
